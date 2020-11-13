@@ -1,0 +1,3 @@
+#SAMPLE .HTACCESS REDIRECT
+RewriteRule ^bg/blog$  https://www.mybroadband.co.za [R=301,L,NC,QSA]
+RewriteRule ^bg/finance/$  https://reddit.com [R=301,L,NC,QSA]
